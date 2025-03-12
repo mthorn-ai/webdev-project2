@@ -3,4 +3,14 @@ html {
   -webkit-text-size-adjust: 100%;
 }
 
+ul, li {
+  font-family: 'Courier New', Courier, monospace;
+  list-style: circle;
+}
+
+body, div {
+  max-height: 100%;
+  max-width: 100%;
+  height:auto;
+}
 
