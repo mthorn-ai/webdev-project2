@@ -128,7 +128,7 @@ h4 {
   display: grid; 
   grid-template-columns: 1fr 1fr 1fr 1fr; 
   grid-gap: 2rem; 
-  width: 100%
+  width: 100%;
 } 
 
 #abt-me-title {
