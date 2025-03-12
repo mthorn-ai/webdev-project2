@@ -94,15 +94,15 @@ h4 {
   font-size: large;
 }
 
-#experience {
+.experience {
   padding: 0.5%;
 }
 
-#links a:visited {
+.links a:visited {
   color: darkmagenta;
 }
 
-#links a:link {
+.links a:link {
   color: maroon;
 }
 
