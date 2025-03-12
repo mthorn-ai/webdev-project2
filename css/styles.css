@@ -29,6 +29,8 @@
   float: left;
   position: relative;
   right: 50%;
+  list-style: none;
+  font-family: "Barriecito", system-ui;
 }
 
 #main-nav ul li a {
