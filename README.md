@@ -1,2 +1,2 @@
-# webdev-project2
+# webdev-project
 ## Matthew Thornton
