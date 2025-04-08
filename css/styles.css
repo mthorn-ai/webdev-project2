@@ -1,11 +1,11 @@
 .barriecito-regular {
-  font-family: "Barriecito", system-ui;
+  font-family: "Barriecito", Arial, system-ui;
   font-weight: 400;
   font-style: normal;
 }
 
 .zain-regular {
-  font-family: "Zain", sans-serif;
+  font-family: "Zain", Arial, sans-serif;
   font-weight: 400;
   font-style: normal;
 }
@@ -30,7 +30,7 @@
   position: relative;
   right: 50%;
   list-style: none;
-  font-family: "Barriecito", system-ui;
+  font-family: "Barriecito", Arial, system-ui;
 }
 
 #main-nav ul li a {
@@ -134,14 +134,14 @@ h4 {
 #abt-me-title {
   padding-top: 5rem;
   margin-left: 2%;
-  font-family: "Barriecito", system-ui;
+  font-family: "Barriecito", Arial, system-ui;
   font-size: large;
 }
 
 #abt-me-subtitle p{
   margin-left: 5%;
   margin-right: 5%;
-  font-family: "Zain", sans-serif;
+  font-family: "Zain", Arial, sans-serif;
   font-size: large;
   padding-bottom: 1rem;
 }
